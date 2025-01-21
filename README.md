@@ -1,8 +1,3 @@
-#Layla
-
-A Stylish Coming Soon Template for your upcoming business. 
-
-#Features
 
 - Stylish Modern Design
 - Full Screen Video Background
